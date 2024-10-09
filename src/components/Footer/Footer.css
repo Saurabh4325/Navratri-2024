@@ -1,0 +1,21 @@
+/* Footer.css */
+
+.footer {
+    background-color: #c2410c; /* bg-orange-800 */
+    color: white;
+    padding: 2rem 0; /* py-8 */
+    margin-top: 3rem; /* mt-12 */
+  }
+  
+  .footer .container {
+    text-align: center;
+  }
+  
+  .footer p {
+    margin: 0;
+  }
+  
+  .footer .footer-note {
+    margin-top: 0.5rem; /* mt-2 */
+  }
+  
