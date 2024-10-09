@@ -4,6 +4,8 @@ import Home from './pages/Home';
 import Classmates from './components/Classmates/Classmates';
 import NavratriNav from './components/Navbar/NavratriNav';
 import HumanFacesGrid from './components/HumanFacesGrid/HumanFacesGrid';
+import Footer from './components/Footer/Footer';
+
 
 
 
@@ -15,6 +17,7 @@ const App = () => {
         <Route path="/Navratri-2024" element={<Home />} />
         <Route path="/classmates" element={<HumanFacesGrid />} />
       </Routes>
+      <Footer />
     </BrowserRouter>
   )
 }

@@ -44,7 +44,7 @@ const HumanFacesGrid = () => {
           </div>
         ))}
       </div>
-    </div>
+      </div>
   );
 };
 
