@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../components/Navbar/NavratriNav'
 import Header from '../components/Header/Header'
-import Footer from '../components/Footer/Footer'
+// import Footer from '../components/Footer/Footer'
 import GridSection from '../components/GridSection/GridSection'
 import SecondSection from '../components/SecondSection/SecondSection'
 
@@ -16,7 +16,7 @@ const Home = () => {
       <br />
       <GridSection />
       <SecondSection />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   )
 }
