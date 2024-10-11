@@ -15,7 +15,7 @@ const HumanFacesGrid = () => {
 
   return (
     <div className="human-faces-grid-container">
-      <h1 className="title">"Celebrate the Spirit of Navratri: A Time for Devotion, Joy, and Divine Blessings!" </h1>
+      <h1 className="title" style={{color: "#c2410c"}}>"Celebrate Navratri: A Festive Journey of Faith, Joy, and Divine Blessings!" </h1>
       <div className="grid-container">
         {faces.map((face) => (
           <div
