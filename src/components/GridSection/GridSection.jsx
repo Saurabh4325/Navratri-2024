@@ -5,6 +5,7 @@ function GridSection() {
   return (
     <section className="grid-section">
       <div className="card">
+      
         <img
         //   src="https://images.unsplash.com/photo-1628268909376-e8c44bb3153f?auto=format&fit=crop&w=600&q=80"
           src="https://t4.ftcdn.net/jpg/02/91/86/03/360_F_291860334_78srzTy8ltVSIUMYSZx169nWfPEWwnVt.jpg"
